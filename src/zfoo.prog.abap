@@ -1,0 +1,3 @@
+report zfoo.
+
+   write: 'georgios'.

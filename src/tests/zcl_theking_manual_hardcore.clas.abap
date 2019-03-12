@@ -1,0 +1,14 @@
+CLASS zcl_theking_manual_hardcore DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zcl_theking_manual_hardcore IMPLEMENTATION.
+ENDCLASS.
